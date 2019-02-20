@@ -1,4 +1,4 @@
-package mysteryperson_id
+package mysteryperson_id // import "src.techknowlogick.com/mysteryperson-id"
 
 import (
 	"bytes"
